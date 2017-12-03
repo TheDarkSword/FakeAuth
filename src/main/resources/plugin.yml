@@ -1,0 +1,5 @@
+name: FakeAuth
+version: 1.0
+main: it.mineblock.fakeauth.Main
+author: LoreSchaeffer
+depends: [MBCore]
